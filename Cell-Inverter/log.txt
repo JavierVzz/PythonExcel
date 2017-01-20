@@ -1,0 +1,54 @@
+ 2017-01-16 03:09:58,218 - DEBUG - Row: ITEM SOLD 
+ 2017-01-16 03:09:58,218 - DEBUG - Row: Eggplant 334 
+ 2017-01-16 03:09:58,218 - DEBUG - Row: Cucumber 252 
+ 2017-01-16 03:09:58,218 - DEBUG - Row: Green cabbage 238 
+ 2017-01-16 03:09:58,218 - DEBUG - Row: Eggplant 516 
+ 2017-01-16 03:09:58,218 - DEBUG - Row: Garlic 98 
+ 2017-01-16 03:09:58,218 - DEBUG - Row: Parsnips 16 
+ 2017-01-16 03:09:58,219 - DEBUG - Row: Asparagus 335 
+ 2017-01-16 03:09:58,219 - DEBUG - Row: Avocados 84 
+ 2017-01-16 03:11:16,772 - DEBUG - Row: ITEM SOLD 
+ 2017-01-16 03:11:16,772 - DEBUG - Row: Eggplant 334 
+ 2017-01-16 03:11:16,772 - DEBUG - Row: Cucumber 252 
+ 2017-01-16 03:11:16,772 - DEBUG - Row: Green cabbage 238 
+ 2017-01-16 03:11:16,772 - DEBUG - Row: Eggplant 516 
+ 2017-01-16 03:11:16,772 - DEBUG - Row: Garlic 98 
+ 2017-01-16 03:11:16,773 - DEBUG - Row: Parsnips 16 
+ 2017-01-16 03:11:16,773 - DEBUG - Row: Asparagus 335 
+ 2017-01-16 03:11:16,773 - DEBUG - Row: Avocados 84 
+ 2017-01-16 03:11:33,301 - DEBUG - Row: ITEM SOLD 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Eggplant 334 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Cucumber 252 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Green cabbage 238 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Eggplant 516 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Garlic 98 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Parsnips 16 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Asparagus 335 
+ 2017-01-16 03:11:33,302 - DEBUG - Row: Avocados 84 
+ 2017-01-16 03:11:50,033 - DEBUG - Row: ITEM SOLD 
+ 2017-01-16 03:11:50,033 - DEBUG - Row: Eggplant 334 
+ 2017-01-16 03:11:50,033 - DEBUG - Row: Cucumber 252 
+ 2017-01-16 03:11:50,034 - DEBUG - Row: Green cabbage 238 
+ 2017-01-16 03:11:50,034 - DEBUG - Row: Eggplant 516 
+ 2017-01-16 03:11:50,034 - DEBUG - Row: Garlic 98 
+ 2017-01-16 03:11:50,034 - DEBUG - Row: Parsnips 16 
+ 2017-01-16 03:11:50,034 - DEBUG - Row: Asparagus 335 
+ 2017-01-16 03:11:50,034 - DEBUG - Row: Avocados 84 
+ 2017-01-16 03:12:30,657 - DEBUG - Row: ITEM SOLD 
+ 2017-01-16 03:12:30,657 - DEBUG - Row: Eggplant 334 
+ 2017-01-16 03:12:30,657 - DEBUG - Row: Cucumber 252 
+ 2017-01-16 03:12:30,658 - DEBUG - Row: Green cabbage 238 
+ 2017-01-16 03:12:30,658 - DEBUG - Row: Eggplant 516 
+ 2017-01-16 03:12:30,658 - DEBUG - Row: Garlic 98 
+ 2017-01-16 03:12:30,658 - DEBUG - Row: Parsnips 16 
+ 2017-01-16 03:12:30,658 - DEBUG - Row: Asparagus 335 
+ 2017-01-16 03:12:30,658 - DEBUG - Row: Avocados 84 
+ 2017-01-16 03:19:15,210 - DEBUG - Row: ITEM SOLD 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Eggplant 334 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Cucumber 252 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Green cabbage 238 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Eggplant 516 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Garlic 98 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Parsnips 16 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Asparagus 335 
+ 2017-01-16 03:19:15,211 - DEBUG - Row: Avocados 84 
