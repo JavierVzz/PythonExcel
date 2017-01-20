@@ -1,0 +1,631 @@
+ 2016-12-12 10:11:09,903 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-12 10:11:09,905 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-12 10:11:09,908 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-12 10:11:09,910 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-12 10:11:09,913 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-12 10:11:09,915 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-12 10:11:09,917 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-12 10:11:09,919 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-12 10:11:09,922 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-12 10:11:09,925 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-12 10:11:09,928 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-12 10:11:09,930 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-12 10:11:09,936 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-12 10:11:09,939 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-12 10:11:09,942 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-12 10:11:09,946 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-12 10:11:09,950 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-12 10:11:09,954 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-12 10:11:09,958 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-12 10:11:09,962 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-12 10:11:09,965 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-12 10:11:09,971 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-12 10:11:09,974 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-12 10:11:09,978 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-12 10:11:09,981 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-12 10:11:09,992 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-12 10:11:09,996 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-12 10:11:10,006 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-12 10:11:10,009 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-12 10:11:10,013 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-12 10:11:10,020 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-12 10:11:10,023 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-12 10:11:10,051 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-12 10:11:10,067 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-12 10:11:10,093 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-12 10:11:10,132 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-12 10:11:10,148 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-12 10:11:10,187 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-12 10:11:10,486 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-12 10:11:10,676 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 17:43:02,059 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 17:43:02,079 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 17:43:02,081 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 17:43:02,084 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 17:43:02,086 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 17:43:02,088 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 17:43:02,091 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 17:43:02,093 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 17:43:02,096 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 17:43:02,100 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 17:43:02,102 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 17:43:02,105 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 17:43:02,112 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 17:43:02,115 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 17:43:02,117 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 17:43:02,121 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 17:43:02,126 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 17:43:02,130 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 17:43:02,134 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 17:43:02,139 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 17:43:02,142 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 17:43:02,148 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 17:43:02,151 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 17:43:02,156 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 17:43:02,159 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 17:43:02,170 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 17:43:02,174 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 17:43:02,184 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 17:43:02,187 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 17:43:02,191 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 17:43:02,198 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 17:43:02,202 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 17:43:02,229 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 17:43:02,244 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 17:43:02,268 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 17:43:02,307 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 17:43:02,325 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 17:43:32,427 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 17:43:32,430 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 17:43:32,432 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 17:43:32,435 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 17:43:32,437 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 17:43:32,439 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 17:43:32,442 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 17:43:32,444 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 17:43:32,447 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 17:43:32,450 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 17:43:32,452 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 17:43:32,455 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 17:43:32,461 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 17:43:32,464 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 17:43:32,466 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 17:43:32,470 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 17:43:32,474 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 17:43:32,479 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 17:43:32,483 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 17:43:32,487 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 17:43:32,490 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 17:43:32,496 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 17:43:32,499 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 17:43:32,504 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 17:43:32,508 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 17:43:32,520 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 17:43:32,524 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 17:43:32,535 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 17:43:32,538 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 17:43:32,542 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 17:43:32,549 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 17:43:32,553 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 17:43:32,579 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 17:43:32,595 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 17:43:32,621 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 17:43:32,663 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 17:43:32,682 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 17:51:03,954 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 17:51:03,955 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 17:51:03,956 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 17:58:46,771 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 17:58:46,771 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 17:58:46,772 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 17:58:46,773 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 17:58:46,774 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:06:41,473 - DEBUG - Item added to dict- Potatoes: 2
+ 2016-12-13 18:06:41,473 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:06:41,474 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:06:41,475 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:06:41,476 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:08:51,739 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:08:51,740 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:08:51,741 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:08:51,742 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:08:51,742 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:08:51,742 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:08:51,742 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:08:51,742 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:08:51,742 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:09:37,323 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:09:37,324 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:09:37,325 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:09:37,326 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:11:18,445 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:11:18,446 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:11:18,447 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:11:18,448 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:11:18,448 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:11:18,448 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:11:18,448 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:11:18,448 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:14:29,771 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:14:29,771 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:14:29,771 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:14:29,772 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:14:29,773 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:14:29,774 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:15:48,790 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:15:48,791 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:15:48,792 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:15:48,793 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:15:48,793 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:16:51,953 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:16:51,953 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:16:51,953 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:16:51,954 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:16:51,955 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:16:51,956 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:20:30,809 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:20:30,810 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Apples: 6.66
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:20:30,811 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:20:30,812 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 18:34:14,968 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 18:34:14,969 - DEBUG - Item added to dict- Bananas: 0.86
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 18:34:14,970 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 19:06:57,140 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 19:06:57,141 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Bananas: 9.99
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 19:06:57,142 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 19:06:57,143 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 19:06:57,143 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 19:06:57,143 - DEBUG - Item added to dict- Bok choy: 1.42
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Potatoes: 0.86
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Okra: 2.26
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Fava beans: 2.69
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Watermelon: 0.66
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Garlic: 1.19
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Parsnips: 2.27
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Asparagus: 2.49
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Avocados: 3.23
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Celery: 3.07
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Spinach: 4.12
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Cucumber: 1.07
+ 2016-12-13 19:08:51,959 - DEBUG - Item added to dict- Apricots: 3.71
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Ginger: 5.13
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Corn: 1.07
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Grapefruit: 0.76
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Eggplant: 2.32
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Green cabbage: 0.8
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Yellow peppers: 2.87
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Grapes: 2.63
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Cherries: 9.5
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Apples: 1.88
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Green beans: 2.52
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Tomatoes: 3.16
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Red onion: 0.78
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Strawberries: 4.4
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Papaya: 1.34
+ 2016-12-13 19:08:51,960 - DEBUG - Item added to dict- Butternut squash: 1.28
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Bananas: 9.99
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Lettuce: 1.88
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Carrots: 1.26
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Daikon: 1.4
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Lime: 1.06
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Green peppers: 1.89
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Beets: 1.51
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Coconuts: 1.18
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Orange: 1.09
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Lemon: 1.29
+ 2016-12-13 19:08:51,961 - DEBUG - Item added to dict- Brussels sprouts: 1.65
+ 2016-12-13 19:08:51,962 - DEBUG - Item added to dict- Kale: 5.02
+ 2016-12-13 19:08:51,962 - DEBUG - Item added to dict- Bok choy: 1.42

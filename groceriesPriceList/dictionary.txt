@@ -1,0 +1,40 @@
+Green beans: 2.52
+Grapefruit: 0.76
+Lime: 1.06
+Okra: 2.26
+Fava beans: 2.69
+Coconuts: 1.18
+Carrots: 1.26
+Beets: 1.51
+Orange: 1.09
+Tomatoes: 3.16
+Apples: 1.88
+Daikon: 1.4
+Cherries: 9.5
+Watermelon: 0.66
+Strawberries: 4.4
+Corn: 1.07
+Spinach: 4.12
+Grapes: 2.63
+Apricots: 3.71
+Celery: 3.07
+Brussels sprouts: 1.65
+Butternut squash: 1.28
+Potatoes: 0.86
+Green cabbage: 0.8
+Papaya: 15.99
+Asparagus: 2.49
+Ginger: 5.13
+Green peppers: 1.89
+Lettuce: 1.88
+Bananas: 9.99
+Cucumber: 1.07
+Lemon: 1.29
+Parsnips: 2.27
+Red onion: 0.78
+Bok choy: 1.42
+Garlic: 1.19
+Kale: 5.02
+Eggplant: 2.32
+Yellow peppers: 2.87
+Avocados: 3.23
